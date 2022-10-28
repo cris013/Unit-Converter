@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+#header{
+   
+    background-color: #6943FF;
+    
+    height: 285px;
+    color: white;
+    padding: 30px;
+}
+
+.main{
+    background: #f4f4f4;
+    padding: 10px;
+}
+
+#length {
+    background: white;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#volume{
+    background: white;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#mass{
+    background: white;
+    padding: 5px;
+}
+
+#input-el{
+    box-sizing: border-box;
+    border: 2px solid #B295FF;
+    background: #6943FF;
+    color: white;
+    font-size: 50px;
+    font-weight: 800;
+    border-radius: 5px;
+    width: 117px;
+    height: 83px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#convert-btn{
+    width: 117px;
+    height: 42px;
+    
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+}
